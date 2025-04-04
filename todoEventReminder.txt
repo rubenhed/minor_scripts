@@ -1,0 +1,5 @@
+scheduled script to run once a day
+
+add event field for days until remind (integer)
+make saved search that displays remind date today? = remind date == current date
+if remind date today? , send mail to event owner from event owner
