@@ -34,6 +34,8 @@ define(['N/email', 'N/search', 'N/log', 'N/record'],
             <p>${nextTaskDetails}</p>
           `
         });
+
+        return true;
       });
     }
 
